@@ -4,7 +4,7 @@
         id        = "com.phonegap.arnold"
         version   = "1.0.0">
 
-    <name>Arnold Sounds</name>
+    <name>Audero Player</name>
 
     <description>
         Just classic arnold sound test in h5
